@@ -68,7 +68,7 @@ user_groups = ["Researchers", "Visitors"]
 #  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
 [[social]]
-  icon = "gihub"
+  icon = "github"
   icon_pack = "fab"
   link = "https://github.com/gcushen"
 
