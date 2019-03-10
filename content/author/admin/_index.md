@@ -35,12 +35,12 @@ user_groups = ["Researchers", "Visitors"]
 [[education.courses]]
   course = "PhD in Economics"
   institution = "Washington State University"
-  year = Expected 2021
+  year = "Expected 2021"
 
 [[education.courses]]
   course = "MS in Statistics"
   institution = "Washington State University"
-  year = Expected 2021
+  year = "Expected 2021"
 
 [[education.courses]]
   course = "MA in Economics"
