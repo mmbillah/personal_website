@@ -23,8 +23,8 @@ date_format = "January 2006"
   company = "San Diego Association of Governments ([Sandag](https://www.sandag.org)) "
   company_url = ""
   location = "San Diego, California"
-  date_start = "5/1/2016"
-  date_end = "7/1/2017"
+  date_start = "2016-05-01"
+  date_end = "2017-08-01"
   description = """
   Responsibilities included:
   
@@ -54,8 +54,8 @@ date_format = "January 2006"
   company = "San Diego Association of Governments ([Sandag](https://www.sandag.org)) "
   company_url = ""
   location = "San Diego, California"
-  date_start = "5/1/2016"
-  date_end = "7/1/2017"
+  date_start = "2016-05-01"
+  date_end = "2017-08-01"
   description = """
   Responsibilities included:
   
