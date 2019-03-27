@@ -3,8 +3,8 @@
 widget = "experience"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Industry Experience"
-subtitle = ""
+title = "Experience"
+subtitle = "Industry"
 
 # Order that this section will appear in.
 weight = 40
@@ -35,8 +35,7 @@ date_format = "January 2006"
   * Developed several visualization and logical check tools for data quality check purposes. Assisted on data request from other internal de- partments and external organizations.
   * Made presentations to team members and senior executives of Sandag explaining modeling process and results.
   """
-title = "Research Experience"
-subtitle = ""
+subtitle = "Resarch"
 
 # Order that this section will appear in.
 weight = 40
@@ -51,7 +50,7 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Regional Models Intern"
+  title = "Regional Models Intern2"
   company = "San Diego Association of Governments ([Sandag](https://www.sandag.org)) "
   company_url = ""
   location = "San Diego, California"
