@@ -16,7 +16,7 @@ weight = 30
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "fa-python"
+  icon = "python"
   icon_pack = "fab"
   name = "Python"
   
@@ -24,5 +24,10 @@ weight = 30
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
+
+[[feature]]
+  icon = "database"
+  icon_pack = "fab"
+  name = "SQL"
 
 +++
