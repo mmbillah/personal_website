@@ -3,7 +3,7 @@
 widget = "experience"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Industry Experience"
+title = "Experience"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -30,7 +30,7 @@ date_format = "January 2006"
   
   * Developed python based demographic and economic forecasting model.
    Please check the code on github: [link](github.com/SANDAG/pydefm.)
-  * Contributed towards the development of real estate development forecasting model also based in python. Please check the code on github:[link](github.com/SANDAG/sandag_urbansim.)
+  * Contributed towards the development of real estate development forecasting model also based in python. Please check the code on github: [link](github.com/SANDAG/sandag_urbansim.)
   * Developed Python/SQL scripts which automated import, storage and analysis of data from external sources such as BLS, BEA, Census, California Dept. of finance, California Dept. of Education and others.
   * Developed several visualization and logical check tools for data quality check purposes. Assisted on data request from other internal de- partments and external organizations.
   * Made presentations to team members and senior executives of Sandag explaining modeling process and results.
@@ -51,6 +51,6 @@ date_format = "January 2006"
   Responsibilities included:
   
   * Econ321-Economics of sports in America. In person (65 Students).
-  * Githublinktoseecoursematerial:[link](https://github.com/jugalm/Sports_Econ_Spring_2019)
+  * Github link to see course material: [link](https://github.com/jugalm/Sports_Econ_Spring_2019)
   """
 +++
