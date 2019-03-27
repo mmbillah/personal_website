@@ -35,7 +35,8 @@ date_format = "January 2006"
   * Developed several visualization and logical check tools for data quality check purposes. Assisted on data request from other internal de- partments and external organizations.
   * Made presentations to team members and senior executives of Sandag explaining modeling process and results.
   """
-widget = "experience"  # Do not modify this line!
+ +++
+widget = "experience2"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
 title = "Teaching Experience"
