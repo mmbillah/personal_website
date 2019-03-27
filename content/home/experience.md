@@ -35,19 +35,6 @@ date_format = "January 2006"
   * Developed several visualization and logical check tools for data quality check purposes. Assisted on data request from other internal de- partments and external organizations.
   * Made presentations to team members and senior executives of Sandag explaining modeling process and results.
   """
- +++
-widget = "experience2"  # Do not modify this line!
-active = true  # Activate this widget? true/false
-
-title = "Teaching Experience"
-
-# Order that this section will appear in.
-weight = 40
-
-# Date format for experience
-#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "January 2006"
-
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
 #   Required fields are `title`, `company`, and `date_start`.
