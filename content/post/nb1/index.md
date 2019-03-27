@@ -255,7 +255,7 @@ sns.distplot(res)
 
 
 
-![png](output_15_2.png)
+![png](1.png)
 
 
 # Neural Network 100 simulation Result
