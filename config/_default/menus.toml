@@ -13,7 +13,7 @@
   weight = 20
 
 [[main]]
-  name = "Projects"
+  name = "Jupyter NB Projects"
   url = "#projects"
   weight = 30
 
@@ -23,11 +23,11 @@
   weight = 40
 
 
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 60
-
+#[[main]]
+#  name = "Contact"
+#  url = "#contact"
+#  weight = 60
+#
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `satic/files/cv.pdf` and uncomment the lines below.
  [[main]]

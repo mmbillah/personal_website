@@ -243,17 +243,8 @@ print("Average accuracy of prediction: " + str(np.array(res).mean()))
 
 sns.distplot(res)
 ```
-
     Average accuracy of prediction: 0.6648000000000001
-
-
-
-
-
     <matplotlib.axes._subplots.AxesSubplot at 0x118dc1cf8>
-
-
-
 
 ![png](1.png)
 
