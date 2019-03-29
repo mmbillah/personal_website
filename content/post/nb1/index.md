@@ -39,6 +39,14 @@ categories = []
   focal_point = ""
 +++ 
 
+url_pdf = "files/pdf/utilizing-political-campaign.pdf"
+url_preprint = ""
+url_code = "https://github.com/leahbalter/political-campaign-networks.git"
+url_dataset = "https://classic.fec.gov/finance/disclosure/ftpdet.shtml"
+url_slides = "Investigation of US Political Donation Data.pdf"
+url_video = ""
+url_poster = ""
+url_source = ""
 
 ```python
 import pandas as pd
