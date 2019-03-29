@@ -13,7 +13,6 @@ authors = []
 # Is this a featured post? (true/false)
 featured = false
 
-slides = "files/JM_CV.pdf"
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -26,7 +25,8 @@ categories = []
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-# projects = ["internal-project"]
+projects = ["internal-project"]
+slides = "files/JM_CV.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
