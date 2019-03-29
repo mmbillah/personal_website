@@ -27,7 +27,7 @@ weight = 30
 
 [[feature]]
   icon = "database"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "SQL"
 
 +++
