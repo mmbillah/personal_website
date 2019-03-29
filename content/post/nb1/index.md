@@ -1,5 +1,5 @@
 +++
-title = "Nb1"
+title = "Jupyter Project 1"
 subtitle = ""
 
 # Add a summary to display on homepage (optional).
@@ -32,21 +32,11 @@ categories = []
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = ""
+  caption = "Read"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
-
-
-url_pdf = "files/pdf/utilizing-political-campaign.pdf"
-url_preprint = ""
-url_code = "https://github.com/leahbalter/political-campaign-networks.git"
-url_dataset = "https://classic.fec.gov/finance/disclosure/ftpdet.shtml"
-url_slides = "Investigation of US Political Donation Data.pdf"
-url_video = ""
-url_poster = ""
-url_source = ""
 
 ```python
 import pandas as pd
@@ -271,143 +261,5 @@ len(res)
 ```
 
     Average accuracy of prediction: 0.7211
-
-
-
-
-
-    100
-
-
-
-
-![png](output_17_2.png)
-
-
-# Random Forest 100 simulation Result
-
-
-```python
-res = run_simulation(100, X_1, y_1, 0.20, 'Random Forest')
-
-print("Average accuracy of prediction: " + str(np.array(res).mean()))
-
-sns.distplot(res)
-len(res)
-```
-
-
-    ---------------------------------------------------------------------------
-
-    KeyboardInterrupt                         Traceback (most recent call last)
-
-    <ipython-input-11-6098848bd9f8> in <module>()
-    ----> 1 res = run_simulation(100, X_1, y_1, 0.20, 'Random Forest')
-          2 
-          3 print("Average accuracy of prediction: " + str(np.array(res).mean()))
-          4 
-          5 sns.distplot(res)
-
-
-    <ipython-input-8-9a5f8d32b3a6> in run_simulation(n, x, y, test_portion, method)
-         14             clf = GaussianNB()
-         15 
-    ---> 16         clf.fit(X_train, y_train)
-         17 
-         18         y_fit = clf.predict(X_test)
-
-
-    /anaconda3/lib/python3.6/site-packages/sklearn/ensemble/forest.py in fit(self, X, y, sample_weight)
-        314             for i in range(n_more_estimators):
-        315                 tree = self._make_estimator(append=False,
-    --> 316                                             random_state=random_state)
-        317                 trees.append(tree)
-        318 
-
-
-    /anaconda3/lib/python3.6/site-packages/sklearn/ensemble/base.py in _make_estimator(self, append, random_state)
-        128 
-        129         if random_state is not None:
-    --> 130             _set_random_states(estimator, random_state)
-        131 
-        132         if append:
-
-
-    /anaconda3/lib/python3.6/site-packages/sklearn/ensemble/base.py in _set_random_states(estimator, random_state)
-         48         * ``scipy.stats`` rvs
-         49     """
-    ---> 50     random_state = check_random_state(random_state)
-         51     to_set = {}
-         52     for key in sorted(estimator.get_params(deep=True)):
-
-
-    /anaconda3/lib/python3.6/site-packages/sklearn/utils/validation.py in check_random_state(seed)
-        628     if seed is None or seed is np.random:
-        629         return np.random.mtrand._rand
-    --> 630     if isinstance(seed, (numbers.Integral, np.integer)):
-        631         return np.random.RandomState(seed)
-        632     if isinstance(seed, np.random.RandomState):
-
-
-    /anaconda3/lib/python3.6/abc.py in __instancecheck__(cls, instance)
-        182         # Inline the cache checking
-        183         subclass = instance.__class__
-    --> 184         if subclass in cls._abc_cache:
-        185             return True
-        186         subtype = type(instance)
-
-
-    KeyboardInterrupt: 
-
-
-# Gaussian Naive Bayes 100 simulation Result
-
-
-```python
-res = run_simulation(100, X_1, y_1, 0.30, 'NB')
-
-print("Average accuracy of prediction: " + str(np.array(res).mean()))
-
-sns.distplot(res)
-len(res)
-```
-
-
-```python
-sns.distplot(df[df['3_category']==0].adjusted_gt_index_lag1, hist=True)
-sns.distplot(df[df['3_category']==1].adjusted_gt_index_lag1, hist=True)
-```
-
-
-```python
-df[df['3_category']==0].adjusted_gt_index_lag1.mean()
-```
-
-
-```python
-df[df['3_category']==1].adjusted_gt_index_lag1.mean()
-```
-
-
-```python
-import scipy.stats as sts
-
-sts.levene(df[df['3_category']==0].adjusted_gt_index_lag1, df[df['3_category']==1].adjusted_gt_index_lag1)
-```
-
-
-```python
-len(df[df['3_category']==0].adjusted_gt_index_lag1)
-```
-
-
-```python
-len(df[df['3_category']==1].adjusted_gt_index_lag1)
-```
-
-
-```python
-len(df)
-```
 
 +++
