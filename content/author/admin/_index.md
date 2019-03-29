@@ -87,12 +87,6 @@ My research interest lie at the intersection of econometrics and machine learnin
 
 Please contact me at: <jugal.marfatia@wsu.edu>
 
-CV: 
+CV: [PDF](files/JM_CV.pdf)
 
-[[url_custom]]
-name = "Publication page"
-url = "http://onlinelibrary.wiley.com/doi/10.1111/mms.12492/abstract"
- 
-url_pdf = "http://onlinelibrary.wiley.com/doi/10.1111/mms.12492/epdf"
-
-tags = ["[CV](files/JM_CV.pdf)"]
+{{%/* staticref "files/JM_CV.pdf" "newtab" */%}}Download my CV{{%/* /staticref */%}}

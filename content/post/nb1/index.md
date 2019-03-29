@@ -25,8 +25,8 @@ categories = []
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["internal-project"]
-slides = "files/JM_CV.pdf"
+#projects = ["internal-project"]
+#slides = "files/JM_CV.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
