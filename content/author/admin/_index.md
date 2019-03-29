@@ -87,4 +87,4 @@ My research interest lie at the intersection of econometrics and machine learnin
 
 Please contact me at: <jugal.marfatia@wsu.edu>
 
-CV: tags=[[PDF](files/JM_CV.pdf)]
+CV: = "files/JM_CV.pdf"
