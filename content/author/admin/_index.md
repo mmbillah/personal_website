@@ -89,6 +89,10 @@ Please contact me at: <jugal.marfatia@wsu.edu>
 
 CV: 
 
+[[url_custom]]
+name = "Publication page"
+url = "http://onlinelibrary.wiley.com/doi/10.1111/mms.12492/abstract"
+ 
 url_pdf = "http://onlinelibrary.wiley.com/doi/10.1111/mms.12492/epdf"
 
 tags = ["[CV](files/JM_CV.pdf)"]
