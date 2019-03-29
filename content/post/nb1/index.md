@@ -4,7 +4,6 @@ subtitle = ""
 
 # Add a summary to display on homepage (optional).
 summary = ""
-
 date = 2019-03-27T14:00:23-07:00
 draft = false
 
@@ -13,6 +12,8 @@ authors = []
 
 # Is this a featured post? (true/false)
 featured = false
+
+slides = "files/JM_CV.pdf"
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
