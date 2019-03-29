@@ -14,7 +14,7 @@
 
 [[main]]
   name = "Jupyter NB Projects"
-  url = "#projects"
+  url = "#jupyter"
   weight = 30
 
 [[main]]
