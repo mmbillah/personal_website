@@ -12,14 +12,14 @@
   url = "#experience"
   weight = 20
 
-[[main]]
-  name = "Jupyter NB Projects"
-  url = "#posts"
-  weight = 30
+#[[main]]
+#  name = "Jupyter NB Projects"
+#  url = "#posts"
+#  weight = 30
 
 [[main]]
   name = "Publications"
-  url = "#publication"
+  url = "#publications"
   weight = 40
 
 
