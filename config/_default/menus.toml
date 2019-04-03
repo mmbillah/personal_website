@@ -14,12 +14,12 @@
 
 [[main]]
   name = "Jupyter NB Projects"
-  url = "#Jupyter NB Projects"
+  url = "#posts"
   weight = 30
 
 [[main]]
   name = "Publications"
-  url = "#featured"
+  url = "#publication"
   weight = 40
 
 
