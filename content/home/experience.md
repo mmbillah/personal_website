@@ -47,10 +47,8 @@ date_format = "January 2006"
   location = "Pullman, Washington"
   date_start = "2019-01-01"
   date_end = ""
-  description = """
-  Responsibilities included:
-  
-  * Econ321-Economics of sports in America. In person (65 Students).
+  description = """  
+  * Econ321 - Economics of sports in America. In person (7- Students).
   * Github link to see course material: [link](https://github.com/jugalm/Sports_Econ_Spring_2019)
   """
 +++

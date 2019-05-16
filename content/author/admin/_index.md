@@ -81,7 +81,7 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I am a 2nd year PhD student in economics and simultaneously pursuing a masters in statistics at Washington State University. 
+I am a 3rd year PhD student in economics and simultaneously pursuing a masters in statistics at Washington State University. 
 
 My research interest lie at the intersection of econometrics and machine learning.
 
