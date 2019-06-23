@@ -12,17 +12,13 @@ view = 1
 image = ""
 caption = ""
 
-Project 1: 
+## Courses: 
++ 1
+  * 
++ 2
 
-# Links (optional).
-- url_pdf = "pdf/my-paper-name.pdf"
-url_preprint = ""
-url_code = ""
-url_dataset = ""
-url_project = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
-url_source = ""
-
+## Projects: 
++ 1
+  * 
++ 2
 +++
