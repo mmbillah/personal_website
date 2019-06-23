@@ -22,6 +22,10 @@
   url = "#publications"
   weight = 40
 
+[[main]]
+  name = "Machine Learning/ Data Science"
+  url = "/Machine_Learning"
+  weight = 50
 
 #[[main]]
 #  name = "Contact"

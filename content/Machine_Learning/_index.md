@@ -1,5 +1,5 @@
 +++
-title = "Recent & Upcoming Talks"
+title = "Machine Learning Projects"
 
 # View.
 #   1 = List
