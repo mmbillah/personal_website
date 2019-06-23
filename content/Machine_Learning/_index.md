@@ -13,11 +13,11 @@ image = ""
 caption = ""
 
 ## Courses: 
-* 1
-* 2
+- 1
+- 2
 
 ## Projects: 
-* 1
-* 2
+- 1
+- 2
 
 +++
