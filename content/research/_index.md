@@ -14,9 +14,9 @@ image = ""
 caption = ""
 +++
 
-## Paper 1:
-* Job Market Paper:
+### Paper 1:
+#### Job Market Paper:
 > Abstract: 
 
-## Paper 2:
+### Paper 2:
 > Abstract:
