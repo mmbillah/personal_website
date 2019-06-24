@@ -12,10 +12,11 @@ view = 2
 image = ""
 caption = ""
 
-## Courses
-1. 
-2. 
-## Projects
-1. 
-2. 
+Courses
+1 
+2 
+
+Projects
+1 
+2 
 +++
