@@ -7,10 +7,7 @@ title = "Machine Learning Projects"
 #   3 = Card
 view = 2
 
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = ""
-caption = ""
+# Optional featured image (relative to `static/img/` folder)
 
 Courses
 1 
