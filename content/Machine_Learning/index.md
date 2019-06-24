@@ -11,4 +11,12 @@ view = 2
 [header]
 image = ""
 caption = "" 
+
+Projects
+- 1
+- 2
+
+Courses 
+- 1 
+- 2
 +++
