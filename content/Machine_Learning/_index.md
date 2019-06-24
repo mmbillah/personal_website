@@ -1,5 +1,5 @@
 +++
-title = "Machine Learning"
+title = "Machine Learning/ Data Science"
 
 # View.
 #   1 = List
@@ -14,42 +14,14 @@ image = ""
 caption = ""
 +++
 
-## Flexibility
+## Courses:
 
-This feature can be used for publishing content such as:
+Courses I have completed in Machine Learning/ Artificial Intelligence.
 
-* **Online courses**
-* **Project or software documentation**
-* **Tutorials**
+* **"Neural Networks and Deep Learning by deeplearning.ai on Coursera" [`Certificate`](https://www.coursera.org/account/accomplishments/certificate/9KEXVC9NF4M9)**
+* **"Applied Machine Learning in Python by University of Michigan on Coursera" [`Certificate`](https://www.coursera.org/account/accomplishments/certificate/ZJKGQGPS93RW)**
 
-The `courses` folder may be renamed. For example, we can rename it to `docs` for software/project documentation or `tutorials` for creating an online course.
+## Projects:
 
-## Delete tutorials
-
-**To remove these pages, delete the `courses` folder and see below to delete the associated menu link.**
-
-## Update site menu
-
-After renaming or deleting the `courses` folder, you may wish to update any `[[main]]` menu links to it by editing your menu configuration at `config/_default/menus.toml`.
-
-For example, if you delete this folder, you can remove the following from your menu configuration:
-
-```toml
-[[main]]
-  name = "Courses"
-  url = "courses/"
-  weight = 50
-```
-
-Or, if you are creating a software documentation site, you can rename the `courses` folder to `docs` and update the associated *Courses* menu configuration to:
-
-```toml
-[[main]]
-  name = "Docs"
-  url = "docs/"
-  weight = 50
-```
-
-## Update the docs menu
-
-If you use the *docs* layout, note that the name of the menu in the front matter should be in the form `[menu.X]` where `X` is the folder name. Hence, if you rename the `courses/example/` folder, you should also rename the menu definitions in the front matter of files within `courses/example/` from `[menu.example]` to `[menu.<NewFolderName>]`.
+* **Project 1**
+* **Project 2**

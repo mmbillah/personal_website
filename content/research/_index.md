@@ -1,0 +1,23 @@
++++
+title = "Machine Learning/ Data Science"
+
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+#   4 = Citation
+view = 2
+
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = ""
+caption = ""
++++
+
+## Paper 1:
+
+Abstract:
+
+## Paper 2:
+
+Abstract:
