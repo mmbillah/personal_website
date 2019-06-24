@@ -15,7 +15,6 @@ caption = ""
 +++
 
 ### Paper 1:
-#### Job Market Paper:
 > Abstract: 
 
 ### Paper 2:
