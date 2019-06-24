@@ -77,10 +77,7 @@ user_groups = ["Researchers", "Visitors"]
   icon_pack = "fab"
   link = "https://www.linkedin.com/in/jugal-marfatia"
 
-[[social]]
-  icon = "medium"
-  icon_pack = "fab"
-  link = "https://medium.com/@jmarfati"
+
 #Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[social]]
@@ -88,6 +85,10 @@ user_groups = ["Researchers", "Visitors"]
   icon_pack = "ai"
   link = "files/JM_CV.pdf"
 
+[[social]]
+  icon = "medium"
+  icon_pack = "fab"
+  link = "https://medium.com/@jmarfati"
 +++
 
 I am a 3rd year PhD student in economics and simultaneously pursuing a masters in statistics at Washington State University. 
