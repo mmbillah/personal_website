@@ -31,12 +31,17 @@ weight = 30
   name = "SQL"
 
 [[feature]]
-  icon = "database"
+  icon = "subscript"
   icon_pack = "fas"
-  name = "SQL"
+  name = "Econometrics"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
+  
+[[feature]]
+  icon = "superscript"
+  icon_pack = "fas"
+  name = "Machine Learning"
 +++
