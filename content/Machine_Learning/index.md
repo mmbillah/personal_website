@@ -7,15 +7,6 @@ title = "Machine Learning Projects"
 #   3 = Card
 view = 2
 
-
-Courses
-1 
-2 
-
-Projects
-1 
-2
-
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = ""
