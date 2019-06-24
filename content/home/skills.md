@@ -30,4 +30,13 @@ weight = 30
   icon_pack = "fas"
   name = "SQL"
 
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "SQL"
+  
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Statistics"
 +++

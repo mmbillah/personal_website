@@ -1,5 +1,5 @@
 +++
-title = "Machine Learning/ Data Science"
+title = "Research"
 
 # View.
 #   1 = List
@@ -15,9 +15,8 @@ caption = ""
 +++
 
 ## Paper 1:
-
-Abstract:
+* Job Market Paper
+> Abstract: 
 
 ## Paper 2:
-
-Abstract:
+> Abstract:
