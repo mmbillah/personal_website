@@ -9,7 +9,7 @@
   weight = 10
 [[main]]
   name = "Experience"
-  url = "#experience"
+  url = "/experience"
   weight = 20
 
 #[[main]]
