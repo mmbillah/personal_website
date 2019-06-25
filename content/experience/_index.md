@@ -18,6 +18,9 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
++++
+
 [[experience]]
   title = "Regional Models Intern"
   company = "San Diego Association of Governments ([Sandag](https://www.sandag.org)) "
@@ -51,4 +54,3 @@ date_format = "January 2006"
   * Econ321 - Economics of sports in America. In person (7- Students).
   * Github link to see course material: [link](https://github.com/jugalm/Sports_Econ_Spring_2019)
   """
-+++
