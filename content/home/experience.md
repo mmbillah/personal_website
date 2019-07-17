@@ -29,7 +29,7 @@ date_format = "January 2006"
   Responsibilities included:
   
   * Developed python based demographic and economic forecasting model.
-   Please check the code on github: [\[link\]](github.com/SANDAG/pydefm.)
+   Please check the code on github: \[[link](github.com/SANDAG/pydefm.)\]
   * Contributed towards the development of real estate development forecasting model also based in python. Please check the code on github: [\[link\]](github.com/SANDAG/sandag_urbansim.)
   * Developed Python/SQL scripts which automated import, storage and analysis of data from external sources such as BLS, BEA, Census, California Dept. of finance, California Dept. of Education and others.
   * Developed several visualization and logical check tools for data quality check purposes. Assisted on data request from other internal de- partments and external organizations.
@@ -49,6 +49,6 @@ date_format = "January 2006"
   date_end = ""
   description = """  
   * EconS 321 - Economics of sports in America. In person (70 - Students).
-  * Github link to course material: [\[link\]](https://github.com/jugalm/Sports_Econ_Spring_2019)
+  * Github link to course material: \[[link](https://github.com/jugalm/Sports_Econ_Spring_2019)\]
   """
 +++
