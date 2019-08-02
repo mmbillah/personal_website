@@ -27,7 +27,6 @@ caption = ""
 * Project 1
 * Project 2
 ### D3
-{{< simpled3 >}}
 
 <script src="https://d3js.org/d3.v5.min.js"></script>
 <style>
