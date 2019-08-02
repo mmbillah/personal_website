@@ -1,60 +1,44 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-    <script>
-// set the dimensions and margins of the graph
-var margin = {top: 10, right: 40, bottom: 30, left: 30},
-    width = 450 - margin.left - margin.right,
-    height = 400 - margin.top - margin.bottom;
+<meta charset="utf-8">
+<title>Minimal D3 Example</title>
+<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
 
-// append the svg object to the body of the page
-var svG = d3.select("#scatter_area")
-  .append("svg")
-    .attr("width", width + margin.left + margin.right)
-    .attr("height", height + margin.top + margin.bottom)
-  .append("g")
-    .attr("transform",
-          "translate(" + margin.left + "," + margin.top + ")");
+<style>
+.bar {
+  fill: steelblue;
+}
 
-// Create data
-var data = [ {x:10, y:20}, {x:40, y:90}, {x:80, y:50} ]
-
-// X scale and Axis
-var x = d3.scaleLinear()
-    .domain([0, 100])         // This is the min and the max of the data: 0 to 100 if percentages
-    .range([0, width]);       // This is the corresponding value I want in Pixel
-svG
-  .append('g')
-  .attr("transform", "translate(0," + height + ")")
-  .call(d3.axisBottom(x));
-
-// X scale and Axis
-var y = d3.scaleLinear()
-    .domain([0, 100])         // This is the min and the max of the data: 0 to 100 if percentages
-    .range([height, 0]);       // This is the corresponding value I want in Pixel
-svG
-  .append('g')
-  .call(d3.axisLeft(y));
-
-// Add 3 dots for 0, 50 and 100%
-svG
-  .selectAll("whatever")
-  .data(data)
-  .enter()
-  .append("circle")
-    .attr("cx", function(d){ return x(d.x) })
-    .attr("cy", function(d){ return y(d.y) })
-    .attr("r", 7)
-</script>
+.bar:hover {
+  fill: orange;
+}
+</style>
 </head>
 <body>
-D3
-<!-- Add a svg area, empty -->
-<div id="scatter_area"></div>
+<h1>Minimal D3 Example</h1>
 
-<!-- Load d3.js -->
-<script src="https://d3js.org/d3.v4.js"></script>
+<script type="text/javascript">
+
+var data = [150, 230, 180, 90];
+
+var svg = d3.select("body")
+            .append("svg")
+            .attr("width", 300)
+            .attr("height", 200);
+
+svg.selectAll(".bar")
+  .data(data)
+  .enter()
+  .append("rect")
+  .attr({
+    class : "bar",
+    width : function(d) {return d;},
+    height: "40",
+    y : function(d, i) {return i*50 + 10;},
+    x : "10"
+   });
+
+</script>
 </body>
 </html>
