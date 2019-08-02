@@ -27,7 +27,7 @@ caption = ""
 * Project 1
 * Project 2
 ### D3
-
+{{< myshortcode >}}
 <script src="https://d3js.org/d3.v5.min.js"></script>
 <style>
     .bar {
@@ -126,3 +126,4 @@ caption = ""
             })
     </script>
 </div>
+{{< /myshortcode >}}
