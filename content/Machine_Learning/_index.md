@@ -1,4 +1,4 @@
-+++
+-+++
 title = "Machine Learning/ Data Science"
 
 # View.
@@ -28,4 +28,4 @@ caption = ""
 * Project 2
 
 
-### D3
+### [D3](/Machine_Learning/d3)
