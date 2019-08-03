@@ -6,7 +6,15 @@
 <script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
 
 <div>
-  <svg id="my_dataviz" width="400" height="300"></svg>
+  <h3>Header D3 Map </h3>
+</div>
+
+<div>
+  <svg id="my_dataviz" width="800" height="500"></svg>
+</div>
+
+<div>
+  <h3>Simple D3 Map</h3>
 </div>
 
 <script>
@@ -37,6 +45,29 @@ d3.queue()
 
 function ready(error, topo) {
 
+  let mouseOver = function(d) {
+    d3.selectAll(".Country")
+      .transition()
+      .duration(200)
+      .style("opacity", .5)
+    d3.select(this)
+      .transition()
+      .duration(200)
+      .style("opacity", 1)
+      .style("stroke", "black")
+  }
+
+  let mouseLeave = function(d) {
+    d3.selectAll(".Country")
+      .transition()
+      .duration(200)
+      .style("opacity", .8)
+    d3.select(this)
+      .transition()
+      .duration(200)
+      .style("stroke", "transparent")
+  }
+
   // Draw the map
   svg.append("g")
     .selectAll("path")
@@ -51,7 +82,12 @@ function ready(error, topo) {
       .attr("fill", function (d) {
         d.total = data.get(d.id) || 0;
         return colorScale(d.total);
-      });
+      })
+      .style("stroke", "transparent")
+      .attr("class", function(d){ return "Country" } )
+      .style("opacity", .8)
+      .on("mouseover", mouseOver )
+      .on("mouseleave", mouseLeave )
     }
 
 </script>
