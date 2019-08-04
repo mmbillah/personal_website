@@ -89,6 +89,12 @@ user_groups = ["Researchers", "Visitors"]
   icon = "medium"
   icon_pack = "fab"
   link = "https://medium.com/@jmarfati"
+
+[[social]]
+  icon = "kaggle"
+  icon_pack = "fab"
+  link = "https://www.kaggle.com/jmarfati"
+
 +++
 
 I am a 3rd year PhD student in economics and simultaneously pursuing a masters in statistics at Washington State University. 
