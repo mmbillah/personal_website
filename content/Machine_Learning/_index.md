@@ -15,6 +15,9 @@ caption = ""
 +++
 ---
 ## Courses completed:
+
+* Applied Machine Learning in Python by [University of Michigan on Coursera](https://www.coursera.org/learn/python-machine-learning) [\[Certificate\]](https://www.coursera.org/account/accomplishments/certificate/ZJKGQGPS93RW)
+  [\[Codes\]](https://github.com/jugalm/Applied-Machine-Learning-in-Python-University-of-Michigan)
 * Deep Learning Specialization by [deeplearning.ai on coursera](https://www.coursera.org/specializations/deep-learning)  [\[Certificate\]](https://www.coursera.org/account/accomplishments/specialization/M2A3DNA7LBWU)
   * Sequence Models: [\[Certificate\]](https://www.coursera.org/account/accomplishments/verify/5YAB2QB4KHZM)
   * Convolutional Neural Networks: [\[Certificate\]](https://www.coursera.org/account/accomplishments/verify/LLTFL5PGQNK7)
@@ -22,10 +25,6 @@ caption = ""
   * Structuring Machine Learning Projects: [\[Certificate\]](https://www.coursera.org/account/accomplishments/verify/WTGB95YRDEFH) 
   * Neural Networks and Deep Learning: [\[Certificate\]](https://www.coursera.org/account/accomplishments/certificate/9KEXVC9NF4M9)
  [\[Codes\]](https://github.com/jugalm/Neural-Networks-and-Deep-Learning-by-deeplearning.ai)
-</br>
-
-* Applied Machine Learning in Python by [University of Michigan on Coursera](https://www.coursera.org/learn/python-machine-learning) [\[Certificate\]](https://www.coursera.org/account/accomplishments/certificate/ZJKGQGPS93RW)
-  [\[Codes\]](https://github.com/jugalm/Applied-Machine-Learning-in-Python-University-of-Michigan)
 
 ---
 ## Articles published in [Towards Data Science](https://towardsdatascience.com/):
