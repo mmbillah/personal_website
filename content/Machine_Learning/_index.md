@@ -13,14 +13,14 @@ view = 2
 image = ""
 caption = ""
 +++
-
+---
 ## Courses completed:
 * Deep Learning Specialization by [deeplearning.ai on coursera](https://www.coursera.org/specializations/deep-learning)  [\[Certificate\]](https://www.coursera.org/account/accomplishments/specialization/M2A3DNA7LBWU)
-  - Sequence Models [\[Certificate\]](https://www.coursera.org/account/accomplishments/verify/5YAB2QB4KHZM)
-  - Convolutional Neural Networks [\[Certificate\]](https://www.coursera.org/account/accomplishments/verify/LLTFL5PGQNK7)
-  - Improving Deep Neural Networks [\[Certificate\]](https://www.coursera.org/account/accomplishments/verify/C5RD9KZKDD8U)
-  - Structuring Machine Learning Projects [\[Certificate\]](https://www.coursera.org/account/accomplishments/verify/WTGB95YRDEFH) 
-  - Neural Networks and Deep Learning [\[Certificate\]](https://www.coursera.org/account/accomplishments/certificate/9KEXVC9NF4M9)
+  * Sequence Models [\[Certificate\]](https://www.coursera.org/account/accomplishments/verify/5YAB2QB4KHZM)
+  * Convolutional Neural Networks [\[Certificate\]](https://www.coursera.org/account/accomplishments/verify/LLTFL5PGQNK7)
+  * Improving Deep Neural Networks [\[Certificate\]](https://www.coursera.org/account/accomplishments/verify/C5RD9KZKDD8U)
+  * Structuring Machine Learning Projects [\[Certificate\]](https://www.coursera.org/account/accomplishments/verify/WTGB95YRDEFH) 
+  * Neural Networks and Deep Learning [\[Certificate\]](https://www.coursera.org/account/accomplishments/certificate/9KEXVC9NF4M9)
  [\[Codes\]](https://github.com/jugalm/Neural-Networks-and-Deep-Learning-by-deeplearning.ai).
 
 
