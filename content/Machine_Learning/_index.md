@@ -28,5 +28,5 @@ caption = ""
 * Project 2
 
 
-### [D3](/Machine_Learning/d3)
-### [D3 Map](/Machine_Learning/d3_map)
+## [D3](/Machine_Learning/d3)
+## [D3 Map](/Machine_Learning/d3_map)
