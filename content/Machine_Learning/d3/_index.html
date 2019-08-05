@@ -38,10 +38,10 @@
 <script src="https://d3js.org/d3.v4.js"></script>
 
 <div id="my_dataviz2"></div>
-
 <div>
   <h2>Simple interactive d3</h2>
 </div>
+
 
 <script>
 
@@ -103,6 +103,7 @@ function update(selectedVar) {
         .attr("width", x.bandwidth())
         .attr("height", function(d) { return height - y(d[selectedVar]); })
         .attr("fill", "#EF525B")
+
   })
 
 }
