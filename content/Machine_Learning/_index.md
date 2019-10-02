@@ -32,5 +32,5 @@ caption = ""
 
 ---
 ## Some basic d3.js visualizations:
-* [Basic Interactive Graph](/Machine_Learning/d3)
-* [Basic Map](/Machine_Learning/d3_map)
+* [Number of Grand Slams won by Roger Federer, Rafael Nadal and Novak Djokovic.](/Machine_Learning/d3)
+* [Basic World map of where surfers live.](/Machine_Learning/d3_map)
