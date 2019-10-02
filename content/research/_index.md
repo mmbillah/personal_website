@@ -26,7 +26,5 @@ one standard deviation higher GTI decreases the probability of stock beating the
 following week by 5 percentage points or equivalently by 10 %, with mean probability of beating DJI
 index equal to 0.5. 
 
-\[[PDF](https://github.com/jugalm/Google-trends-stock-data/blob/master/final_paper.pdf)\] \[[Codes](https://github.com/jugalm/Google-trends-stock-data/blob/master/poster.ipynb)\] 
-
+\[[PDF](https://nbviewer.jupyter.org/github.com/jugalm/Google-trends-stock-data/blob/master/final_paper.pdf)\] \[[Codes](https://nbviewer.jupyter.org/github/jugalm/Google-trends-stock-data/blob/master/poster.ipynb)\] 
 ---
-
