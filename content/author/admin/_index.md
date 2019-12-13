@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Economics PhD Student"
+role = "PhD Economics | MS Statistics Student"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -24,7 +24,8 @@ email = ""
 # List (academic) interests or hobbies
 interests = [
   "Econometrics",
-  "Machine Learning"
+  "Machine Learning",
+  "Data Science"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -99,7 +100,7 @@ user_groups = ["Researchers", "Visitors"]
 
 I am a 3rd year PhD student in economics and simultaneously pursuing a masters in statistics at Washington State University. 
 
-My research interest lie at the intersection of econometrics and machine learning.
+My research interest lies at the intersection of econometrics and machine learning.
 
 Please contact me at: <jugal.marfatia@wsu.edu>
 

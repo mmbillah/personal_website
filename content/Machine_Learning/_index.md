@@ -13,6 +13,15 @@ view = 2
 image = ""
 caption = ""
 +++
+
+---
+## Kaggle Competitions:
+* Currently participating in Kaggle / NFL Big Data Bowl. 
+* Top 10 % (bronze medal), Kaggle IEEE-CIS Fraud Detection Competition 2019.
+* Top 17 %, Kaggle APTOS 2019 Blindness Detection Competition.
+---
+## Articles published in [Towards Data Science](https://towardsdatascience.com/):
+* Wimbledon Predictions using Neural Network: [\[Link\]](https://towardsdatascience.com/predicting-wimbledon-matches-using-neural-network-e2ee4d3dead2)
 ---
 ## Courses completed:
 
@@ -25,10 +34,6 @@ caption = ""
   * Structuring Machine Learning Projects: [\[Certificate\]](https://www.coursera.org/account/accomplishments/verify/WTGB95YRDEFH) 
   * Neural Networks and Deep Learning: [\[Certificate\]](https://www.coursera.org/account/accomplishments/certificate/9KEXVC9NF4M9)
  [\[Codes\]](https://github.com/jugalm/Neural-Networks-and-Deep-Learning-by-deeplearning.ai)
-
----
-## Articles published in [Towards Data Science](https://towardsdatascience.com/):
-* Wimbledon Predictions using Neural Network: [\[Link\]](https://towardsdatascience.com/predicting-wimbledon-matches-using-neural-network-e2ee4d3dead2)
 
 ---
 ## Some basic d3.js visualizations:
