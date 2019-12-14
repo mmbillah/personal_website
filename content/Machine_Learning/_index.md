@@ -30,6 +30,7 @@ caption = ""
 
 ---
 
+
 ## Courses completed:
 
 * Applied Machine Learning in Python by [University of Michigan on Coursera](https://www.coursera.org/learn/python-machine-learning) [\[Certificate\]](https://www.coursera.org/account/accomplishments/certificate/ZJKGQGPS93RW)
