@@ -27,10 +27,7 @@ caption = ""
 ## Articles published in [Towards Data Science](https://towardsdatascience.com/):
 
 * Wimbledon Predictions using Neural Network: [\[Link\]](https://towardsdatascience.com/predicting-wimbledon-matches-using-neural-network-e2ee4d3dead2)
-
----
-
-
+----
 ## Courses completed:
 
 * Applied Machine Learning in Python by [University of Michigan on Coursera](https://www.coursera.org/learn/python-machine-learning) [\[Certificate\]](https://www.coursera.org/account/accomplishments/certificate/ZJKGQGPS93RW)
