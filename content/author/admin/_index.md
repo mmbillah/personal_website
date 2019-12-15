@@ -16,7 +16,7 @@ role = "PhD Economics | MS Statistics Student"
 organizations = [ {name="Washington State University", url="wsu.edu"}]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "My research interest lies at the intersection of econometrics and machine learning."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
