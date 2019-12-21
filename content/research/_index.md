@@ -14,7 +14,7 @@ image = ""
 caption = ""
 +++
 
----
+___
 ## Can Google Trends data be used to predict stock returns?
 **Abstract** : The main purpose of this paper is to study the relationship between Google Trends Index (GTI)
 and the stock returns in the subsequent period. Using weekly GTI data from 2013 to 2018 for 30
@@ -27,4 +27,4 @@ following week by 5 percentage points or equivalently by 10 %, with mean probabi
 index equal to 0.5. 
 
 \[[PDF](https://nbviewer.jupyter.org/github/jugalm/Google-trends-stock-data/blob/master/final_paper.pdf)\] \[[Codes](https://nbviewer.jupyter.org/github/jugalm/Google-trends-stock-data/blob/master/poster.ipynb)\] 
----
+___
