@@ -47,3 +47,5 @@ ___
 ## Some basic d3.js visualizations:
 * [Number of Grand Slams won by Roger Federer, Rafael Nadal and Novak Djokovic.](/Machine_Learning/d3)
 * [Basic World map of where surfers live.](/Machine_Learning/d3_map)
+* [Spread of Covid-19.](/Machine_Learning/Covid-19_spread)
+
