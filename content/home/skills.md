@@ -41,7 +41,7 @@ weight = 30
   name = "Statistics"
   
 [[feature]]
-  icon = "superscript"
+  icon = "deep-learning"
   icon_pack = "fas"
-  name = "Machine Learning"
+  name = "Deep Learning"
 +++
